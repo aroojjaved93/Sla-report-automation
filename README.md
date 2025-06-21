@@ -1,3 +1,4 @@
+This is a personal productivity tool I created to reduce manual work in support ticket SLA reporting. Built entirely in Excel using VBA, it's aimed at small teams that need fast automation without expensive tools.
 
 # SLA Report Automation Tool (Excel + VBA)
 
