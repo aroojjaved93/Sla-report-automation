@@ -43,4 +43,3 @@ MIT — Free to use, modify, and share.
 
 **Arooj Javed**  
 Technical Support Engineer | Automation Specialist  
-Pakistan
