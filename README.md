@@ -35,11 +35,21 @@ I worked in a support team that manually created SLA reports each week. It was s
 3. Run the macro using ALT+F11 or from the Developer ribbon
 4. View SLA pass/fail statuses and summary charts
 
+## 📎 Related Articles
+
+- ✍️ [How I Automated Weekly SLA Reports](https://aroojtech.hashnode.dev/how-i-automated-weekly-sla-reports-in-our-support-team-without-buying-any-tool)
+- 📄 [SLA Report Journal @ Zenodo]([https://doi.org/10.5281/zenodo.15722071])
+
+
+## 🧠 Author
+
+**Arooj Javed**  
+Support Engineer | Automation Specialist | Workflow Optimizer  
+🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://hashnode.com/@aroojjaved93)
+
+
 ## 📥 License
 
 MIT — Free to use, modify, and share.
 
-## 👤 Author
-
-**Arooj Javed**  
-Technical Support Engineer | Automation Specialist  
+  
