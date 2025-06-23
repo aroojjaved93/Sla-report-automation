@@ -38,7 +38,7 @@ I worked in a support team that manually created SLA reports each week. It was s
 ## 📎 Related Articles
 
 - ✍️ [How I Automated Weekly SLA Reports](https://aroojtech.hashnode.dev/how-i-automated-weekly-sla-reports-in-our-support-team-without-buying-any-tool)
-- 📄 [SLA Report Journal @ Zenodo]([https://doi.org/10.5281/zenodo.15722071])
+- 📄 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
 
 
 ## 🧠 Author
