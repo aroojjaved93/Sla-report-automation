@@ -52,4 +52,12 @@ Support Engineer | Automation Specialist | Workflow Optimizer
 
 MIT — Free to use, modify, and share.
 
+---
+
+🙌 Support This Project
+
+If you find this project helpful, please consider giving it a ⭐ on GitHub!
+
+Your star helps others discover this project and motivates continued improvements! 💡
+
   
