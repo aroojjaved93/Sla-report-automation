@@ -1,94 +1,68 @@
-# 📊 SLA Report Automation – UK-Based Freelance Project
+# 📊 SLA Report Automation – Real-World No-Code Solution
 
-This project was delivered as part of a **3-month freelance automation contract** for a UK-based accountancy firm in 2024. It aimed to automate SLA report generation for internal support processes using lightweight scripting techniques without purchasing third-party tools.
+![GitHub stars](https://img.shields.io/github/stars/aroojjaved93/Sla-report-automation?style=social)
+![Medium](https://img.shields.io/badge/Medium-Article-green)
+![Zenodo DOI](https://img.shields.io/badge/Published-Zenodo-blue)
 
----
+## 🔍 Project Overview
 
-## 💼 Project Context
+Managing weekly SLA reports manually in support teams is often time-consuming and error-prone. This lightweight, no-code solution automates SLA data collection, filtering, and reporting using Python and Excel. 
 
-- **Client**: UK-based accountancy firm (contractual freelance work)
-- **Duration**: June 2024 – August 2024
-- **Role**: Freelance Automation Developer
-- **Engagement Type**: Remote, milestone-based contract
-
----
-
-## ⚙️ Key Contributions
-
-- Developed a **Python-based automation** to extract ticket data from internal support logs.
-- Automated generation of **weekly SLA reports** in Excel/PDF format.
-- Delivered **reusable scripts and configuration templates** that reduced manual work by 70%.
-- Helped the support team **track performance KPIs**, escalations, and SLA breaches more reliably.
+🎯 **Goal:** Deliver accurate SLA performance reports every week without relying on paid platforms or complex setups.
 
 ---
 
+## 🛠️ Key Features
 
-## ✨ What It Does
+- 📥 Automatically imports raw ticket data from Excel
+- 🧮 Calculates SLA compliance and breach rates
+- 🗂 Filters ticket statuses, owners, and durations
+- 📊 Outputs ready-to-send report format for stakeholders
+- 💡 No third-party tools or plugins required
 
-- Imports support ticket data (CSV format)
-- Calculates resolution times based on open/close timestamps
-- Compares resolution times against SLA targets (per priority)
-- Flags SLA breaches using conditional formatting
-- Generates summary charts for weekly review
+---
 
-## 📂 Files Included
+## 🔗 Related Articles & Research
 
-- `sla_report_template.xlsx` – Excel file with pre-built formulas and structure
-- `sample_ticket_data.csv` – Dummy ticket data for testing
-- `sla_macro_code.txt` – Sample VBA macro script to automate calculations
+- ✍️ [How I Automated Weekly SLA Reports](https://aroojtech.hashnode.dev/how-i-automated-weekly-sla-reports-in-our-support-team-without-buying-any-tool)
+- 📄 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
+- 🧾 [Dev.to Post](https://dev.to/aroojjaved93/automating-weekly-sla-reports-a-no-code-practical-framework-346j)
+- ✍️ [Medium Article](https://aroojjaved93.medium.com/automating-sla-report-generation-with-simplicity-586da39539bd)
 
-## 💡 Why I Built This
+---
 
-I worked in a support team that manually created SLA reports each week. It was slow and error-prone. This tool reduced reporting time by 75% and improved consistency — and it required no expensive software.
+## 💼 Real-World Freelance Use Case
 
-## 🛠️ Technologies
+This project was implemented for a **UK-based accountancy firm** during a short-term freelance engagement (3-month contract, 2024). It helped their operations team automate SLA compliance tracking without investing in any third-party tools. The work was delivered under goodwill and internal use agreement, demonstrating real-world application.
 
-- Microsoft Excel
-- VBA (Visual Basic for Applications)
-- CSV Input
+---
 
-## 📘 How to Use
+## 📂 Tech Stack
 
-1. Open the `sla_report_template.xlsx` file
-2. Paste your real ticket data into the appropriate sheet (follow the format in `sample_ticket_data.csv`)
-3. Run the macro using ALT+F11 or from the Developer ribbon
-4. View SLA pass/fail statuses and summary charts
+- Python (Pandas, OpenPyXL)
+- Excel (CSV data parsing)
+- Jupyter Notebook (for local execution)
+- GitHub (version control)
 
+---
 
-## 📰 Related Articles
+## 🚀 How to Use
 
-📘 **Dev.to Post**  
-🔗 [Automating Weekly SLA Reports – A No-Code Practical Framework](https://dev.to/aroojjaved93/automating-weekly-sla-reports-a-no-code-practical-framework-346j)
+1. Place your weekly SLA export `.xlsx` file in the `/data` folder
+2. Open the notebook and run all cells
+3. Get an output report filtered and formatted
+4. Download and share with stakeholders
 
-📘 **Medium Article**  
-🔗 [Automating SLA Report Generation with Simplicity](https://aroojjaved93.medium.com/automating-sla-report-generation-with-simplicity-586da39539bd)
+---
 
-📘 **Hashnode Blog**  
-🔗 [How I Automated Weekly SLA Reports](https://aroojtech.hashnode.dev/how-i-automated-weekly-sla-reports-in-our-support-team-without-buying-any-tool)
+## 📧 Feedback & Contributions
 
-📘 **Zenodo Journal**  
-🔗 [SLA Report Journal @ Zenodo](https://doi.org/10.5281/zenodo.15722071)
+Suggestions and forks are welcome! Feel free to open an issue or contact me via GitHub.
 
+---
 
-
-
-## 🧠 Author
+## 👩‍💻 Author
 
 **Arooj Javed**  
-Support Engineer | Automation Specialist | Workflow Optimizer  
-🔗 [GitHub](https://github.com/arooj-javed) | [Blog](https://hashnode.com/@aroojjaved93)
-
-
-## 📥 License
-
-MIT — Free to use, modify, and share.
-
----
-
-🙌 Support This Project
-
-If you find this project helpful, please consider giving it a ⭐ on GitHub!
-
-Your star helps others discover this project and motivates continued improvements! 💡
-
-  
+GitHub: [@aroojjaved93](https://github.com/aroojjaved93)  
+Also published as an open-access research case study and blog series.
