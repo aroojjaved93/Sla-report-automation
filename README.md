@@ -1,8 +1,27 @@
-This is a personal productivity tool I created to reduce manual work in support ticket SLA reporting. Built entirely in Excel using VBA, it's aimed at small teams that need fast automation without expensive tools.
+# 📊 SLA Report Automation – UK-Based Freelance Project
 
-# SLA Report Automation Tool (Excel + VBA)
+This project was delivered as part of a **3-month freelance automation contract** for a UK-based accountancy firm in 2024. It aimed to automate SLA report generation for internal support processes using lightweight scripting techniques without purchasing third-party tools.
 
-This project helps automate the generation of SLA (Service Level Agreement) performance reports using Microsoft Excel and basic VBA.
+---
+
+## 💼 Project Context
+
+- **Client**: UK-based accountancy firm (contractual freelance work)
+- **Duration**: June 2024 – August 2024
+- **Role**: Freelance Automation Developer
+- **Engagement Type**: Remote, milestone-based contract
+
+---
+
+## ⚙️ Key Contributions
+
+- Developed a **Python-based automation** to extract ticket data from internal support logs.
+- Automated generation of **weekly SLA reports** in Excel/PDF format.
+- Delivered **reusable scripts and configuration templates** that reduced manual work by 70%.
+- Helped the support team **track performance KPIs**, escalations, and SLA breaches more reliably.
+
+---
+
 
 ## ✨ What It Does
 
