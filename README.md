@@ -37,7 +37,7 @@ This project was implemented for a **UK-based accountancy firm** during a short-
 
 ---
 
-## 📂 Tech Stack
+# 📂 Tech Stack
 
 - Python (Pandas, OpenPyXL)
 - Excel (CSV data parsing)
