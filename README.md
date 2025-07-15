@@ -4,7 +4,7 @@
 ![Medium](https://img.shields.io/badge/Medium-Article-green)
 ![Zenodo DOI](https://img.shields.io/badge/Published-Zenodo-blue)
 
-## 🔍 Project Overview
+# 🔍 Project Overview
 
 Managing weekly SLA reports manually in support teams is often time-consuming and error-prone. This lightweight, no-code solution automates SLA data collection, filtering, and reporting using Python and Excel. 
 
@@ -12,7 +12,7 @@ Managing weekly SLA reports manually in support teams is often time-consuming an
 
 ---
 
-## 🛠️ Key Features
+# 🛠️ Key Features
 
 - 📥 Automatically imports raw ticket data from Excel
 - 🧮 Calculates SLA compliance and breach rates
